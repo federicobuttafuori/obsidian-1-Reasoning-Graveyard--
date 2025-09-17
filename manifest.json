@@ -1,0 +1,11 @@
+{
+"id": "append-selection-plugin",
+"name": "Append Selection Plugin",
+"version": "0.1.0",
+"minAppVersion": "0.12.0",
+"description": "Appende il testo selezionato nell'editor a un file configurabile nella vault.",
+"author": "Your Name",
+"authorUrl": "",
+"isDesktopOnly": false,
+"main": "main.js"
+}
